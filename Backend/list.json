@@ -1,0 +1,2126 @@
+[
+  {
+    "name": "Atorvastatin",
+    "common_abbreviation": "Atorv",
+    "category": "chronic illness",
+    "sub_category": "Cardiovascular",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["10 mg", "20 mg", "40 mg", "80 mg"],
+    "notes": "Statin used for high cholesterol and cardiovascular risk reduction"
+  },
+  {
+    "name": "Metformin",
+    "common_abbreviation": "Met",
+    "category": "chronic illness",
+    "sub_category": "Endocrinology",
+    "dosage_forms": ["tablet", "extended-release tablet", "solution"],
+    "common_doses": ["500 mg", "850 mg", "1000 mg"],
+    "notes": "First-line therapy for type 2 diabetes"
+  },
+  {
+    "name": "Levothyroxine",
+    "common_abbreviation": "Lev",
+    "category": "chronic illness",
+    "sub_category": "Endocrinology",
+    "dosage_forms": ["tablet", "capsule", "injection"],
+    "common_doses": ["25 mcg", "50 mcg", "75 mcg", "88 mcg", "100 mcg", "112 mcg", "125 mcg", "137 mcg", "150 mcg", "175 mcg", "200 mcg"],
+    "notes": "Thyroid hormone replacement for hypothyroidism"
+  },
+  {
+    "name": "Lisinopril",
+    "common_abbreviation": "Lis",
+    "category": "chronic illness",
+    "sub_category": "Cardiovascular",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["5 mg", "10 mg", "20 mg", "40 mg"],
+    "notes": "ACE inhibitor for hypertension and heart failure"
+  },
+  {
+    "name": "Amlodipine",
+    "common_abbreviation": "Amlod",
+    "category": "chronic illness",
+    "sub_category": "Cardiovascular",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["2.5 mg", "5 mg", "10 mg"],
+    "notes": "Calcium channel blocker for hypertension and coronary artery disease"
+  },
+  {
+    "name": "Metoprolol",
+    "common_abbreviation": "Metop",
+    "category": "chronic illness",
+    "sub_category": "Cardiovascular",
+    "dosage_forms": ["tablet", "extended-release tablet", "injection"],
+    "common_doses": ["25 mg", "50 mg", "100 mg", "200 mg"],
+    "notes": "Beta-blocker for hypertension, angina, and heart failure"
+  },
+  {
+    "name": "Albuterol",
+    "common_abbreviation": "Alb",
+    "category": "acute use",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["inhaler", "nebulizer solution", "tablet", "syrup"],
+    "common_doses": ["90 mcg/inh", "2.5 mg/3 mL"],
+    "notes": "Short-acting beta-agonist for asthma and COPD exacerbations"
+  },
+  {
+    "name": "Losartan",
+    "common_abbreviation": "Los",
+    "category": "chronic illness",
+    "sub_category": "Cardiovascular",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["25 mg", "50 mg", "100 mg"],
+    "notes": "Angiotensin II receptor blocker for hypertension and diabetic nephropathy"
+  },
+  {
+    "name": "Gabapentin",
+    "common_abbreviation": "Gaba",
+    "category": "mental health/chronic pain",
+    "sub_category": "Neurology",
+    "dosage_forms": ["capsule", "tablet", "solution"],
+    "common_doses": ["100 mg", "300 mg", "400 mg", "600 mg", "800 mg"],
+    "notes": "Used for neuropathic pain, seizures, and off-label for anxiety"
+  },
+  {
+    "name": "Omeprazole",
+    "common_abbreviation": "Ome",
+    "category": "chronic illness",
+    "sub_category": "Gastroenterology",
+    "dosage_forms": ["capsule", "tablet", "suspension"],
+    "common_doses": ["10 mg", "20 mg", "40 mg"],
+    "notes": "Proton pump inhibitor for GERD, ulcers, and acid reflux"
+  },
+  {
+    "name": "Sertraline",
+    "common_abbreviation": "Sert",
+    "category": "mental health",
+    "sub_category": "Psychiatry",
+    "dosage_forms": ["tablet", "oral concentrate"],
+    "common_doses": ["25 mg", "50 mg", "100 mg", "200 mg"],
+    "notes": "SSRI antidepressant for depression, OCD, panic disorder, and PTSD"
+  },
+  {
+    "name": "Rosuvastatin",
+    "common_abbreviation": "Rosu",
+    "category": "chronic illness",
+    "sub_category": "Cardiovascular",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["5 mg", "10 mg", "20 mg", "40 mg"],
+    "notes": "Statin for high cholesterol and cardiovascular risk reduction"
+  },
+  {
+    "name": "Pantoprazole",
+    "common_abbreviation": "Panto",
+    "category": "chronic illness",
+    "sub_category": "Gastroenterology",
+    "dosage_forms": ["tablet", "injection"],
+    "common_doses": ["20 mg", "40 mg"],
+    "notes": "Proton pump inhibitor for GERD and erosive esophagitis"
+  },
+  {
+    "name": "Escitalopram",
+    "common_abbreviation": "Escit",
+    "category": "mental health",
+    "sub_category": "Psychiatry",
+    "dosage_forms": ["tablet", "solution"],
+    "common_doses": ["5 mg", "10 mg", "20 mg"],
+    "notes": "SSRI antidepressant for depression and generalized anxiety disorder"
+  },
+  {
+    "name": "Amphetamine-Aspartate-Amphetamine-Dextroamphetamine",
+    "common_abbreviation": "Amph",
+    "category": "mental health",
+    "sub_category": "Psychiatry",
+    "dosage_forms": ["tablet", "capsule", "extended-release capsule"],
+    "common_doses": ["5 mg", "10 mg", "15 mg", "20 mg", "25 mg", "30 mg"],
+    "notes": "Stimulant for ADHD and narcolepsy"
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "common_abbreviation": "HCTZ",
+    "category": "chronic illness",
+    "sub_category": "Cardiovascular",
+    "dosage_forms": ["tablet", "capsule"],
+    "common_doses": ["12.5 mg", "25 mg", "50 mg"],
+    "notes": "Thiazide diuretic for hypertension and edema"
+  },
+  {
+    "name": "Bupropion",
+    "common_abbreviation": "Bup",
+    "category": "mental health",
+    "sub_category": "Psychiatry",
+    "dosage_forms": ["tablet", "extended-release tablet"],
+    "common_doses": ["75 mg", "100 mg", "150 mg", "300 mg"],
+    "notes": "Antidepressant and smoking cessation aid"
+  },
+  {
+    "name": "Fluoxetine",
+    "common_abbreviation": "Flx",
+    "category": "mental health",
+    "sub_category": "Psychiatry",
+    "dosage_forms": ["capsule", "tablet", "solution"],
+    "common_doses": ["10 mg", "20 mg", "40 mg", "60 mg", "90 mg"],
+    "notes": "SSRI antidepressant for depression, OCD, and bulimia"
+  },
+  {
+    "name": "Semaglutide",
+    "common_abbreviation": "Sema",
+    "category": "chronic illness",
+    "sub_category": "Endocrinology",
+    "dosage_forms": ["injection", "tablet"],
+    "common_doses": ["0.25 mg", "0.5 mg", "1 mg", "1.7 mg", "2.4 mg"],
+    "notes": "GLP-1 agonist for type 2 diabetes and weight management"
+  },
+  {
+    "name": "Montelukast",
+    "common_abbreviation": "Mon",
+    "category": "chronic illness",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["tablet", "chewable tablet", "granules"],
+    "common_doses": ["4 mg", "5 mg", "10 mg"],
+    "notes": "Leukotriene inhibitor for asthma and allergic rhinitis"
+  },
+  {
+    "name": "Trazodone",
+    "common_abbreviation": "Traz",
+    "category": "mental health",
+    "sub_category": "Psychiatry",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["50 mg", "100 mg", "150 mg", "300 mg"],
+    "notes": "Antidepressant commonly used off-label for insomnia"
+  },
+  {
+    "name": "Simvastatin",
+    "common_abbreviation": "Simv",
+    "category": "chronic illness",
+    "sub_category": "Cardiovascular",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["5 mg", "10 mg", "20 mg", "40 mg", "80 mg"],
+    "notes": "Statin for high cholesterol"
+  },
+  {
+    "name": "Amoxicillin",
+    "common_abbreviation": "Amox",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["capsule", "tablet", "suspension"],
+    "common_doses": ["250 mg", "500 mg", "875 mg"],
+    "notes": "Penicillin antibiotic for bacterial infections"
+  },
+  {
+    "name": "Tamsulosin",
+    "common_abbreviation": "Tam",
+    "category": "chronic illness",
+    "sub_category": "Urology",
+    "dosage_forms": ["capsule"],
+    "common_doses": ["0.4 mg"],
+    "notes": "Alpha-blocker for benign prostatic hyperplasia"
+  },
+  {
+    "name": "Acetaminophen; Hydrocodone",
+    "common_abbreviation": "APAP/Hyd",
+    "category": "acute use",
+    "sub_category": "Analgesia",
+    "dosage_forms": ["tablet", "capsule", "solution"],
+    "common_doses": ["325 mg/5 mg", "325 mg/7.5 mg", "325 mg/10 mg"],
+    "notes": "Opioid combination for moderate to severe pain"
+  },
+  {
+    "name": "Fluticasone",
+    "common_abbreviation": "Flut",
+    "category": "chronic illness",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["inhaler", "nasal spray"],
+    "common_doses": ["50 mcg", "100 mcg", "250 mcg", "500 mcg"],
+    "notes": "Corticosteroid for asthma and allergic rhinitis"
+  },
+  {
+    "name": "Meloxicam",
+    "common_abbreviation": "Mel",
+    "category": "acute use",
+    "sub_category": "Analgesia",
+    "dosage_forms": ["tablet", "suspension"],
+    "common_doses": ["7.5 mg", "15 mg"],
+    "notes": "NSAID for osteoarthritis and rheumatoid arthritis"
+  },
+  {
+    "name": "Apixaban",
+    "common_abbreviation": "Apix",
+    "category": "chronic illness",
+    "sub_category": "Hematology",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["2.5 mg", "5 mg"],
+    "notes": "Direct oral anticoagulant for stroke prevention in atrial fibrillation"
+  },
+  {
+    "name": "Furosemide",
+    "common_abbreviation": "Furo",
+    "category": "chronic illness",
+    "sub_category": "Cardiovascular",
+    "dosage_forms": ["tablet", "injection"],
+    "common_doses": ["20 mg", "40 mg", "80 mg"],
+    "notes": "Loop diuretic for edema and hypertension"
+  },
+  {
+    "name": "Insulin Glargine",
+    "common_abbreviation": "Gla",
+    "category": "chronic illness",
+    "sub_category": "Endocrinology",
+    "dosage_forms": ["injection"],
+    "common_doses": ["10 units", "20 units", "30 units", "40 units", "50 units"],
+    "notes": "Long-acting insulin for type 1 and type 2 diabetes"
+  },
+  {
+    "name": "Duloxetine",
+    "common_abbreviation": "Dulox",
+    "category": "mental health/chronic pain",
+    "sub_category": "Psychiatry",
+    "dosage_forms": ["capsule"],
+    "common_doses": ["20 mg", "30 mg", "40 mg", "60 mg", "80 mg", "120 mg"],
+    "notes": "SNRI for depression, anxiety, fibromyalgia, and neuropathic pain"
+  },
+  {
+    "name": "Ibuprofen",
+    "common_abbreviation": "Ibu",
+    "category": "acute use",
+    "sub_category": "Analgesia",
+    "dosage_forms": ["tablet", "capsule", "suspension"],
+    "common_doses": ["200 mg", "400 mg", "600 mg", "800 mg"],
+    "notes": "NSAID for pain, fever, and inflammation"
+  },
+  {
+    "name": "Famotidine",
+    "common_abbreviation": "Fam",
+    "category": "acute use",
+    "sub_category": "Gastroenterology",
+    "dosage_forms": ["tablet", "injection", "suspension"],
+    "common_doses": ["10 mg", "20 mg", "40 mg"],
+    "notes": "H2 blocker for GERD and peptic ulcers"
+  },
+  {
+    "name": "Empagliflozin",
+    "common_abbreviation": "Empa",
+    "category": "chronic illness",
+    "sub_category": "Endocrinology",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["10 mg", "25 mg"],
+    "notes": "SGLT2 inhibitor for type 2 diabetes and heart failure"
+  },
+  {
+    "name": "Carvedilol",
+    "common_abbreviation": "Carve",
+    "category": "chronic illness",
+    "sub_category": "Cardiovascular",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["3.125 mg", "6.25 mg", "12.5 mg", "25 mg"],
+    "notes": "Beta-blocker for heart failure and hypertension"
+  },
+  {
+    "name": "Tramadol",
+    "common_abbreviation": "Tram",
+    "category": "acute use",
+    "sub_category": "Analgesia",
+    "dosage_forms": ["tablet", "capsule", "extended-release tablet"],
+    "common_doses": ["50 mg", "100 mg"],
+    "notes": "Opioid-like analgesic for moderate pain"
+  },
+  {
+    "name": "Alprazolam",
+    "common_abbreviation": "Alp",
+    "category": "mental health",
+    "sub_category": "Psychiatry",
+    "dosage_forms": ["tablet", "extended-release tablet"],
+    "common_doses": ["0.25 mg", "0.5 mg", "1 mg", "2 mg"],
+    "notes": "Benzodiazepine for anxiety and panic disorders"
+  },
+  {
+    "name": "Prednisone",
+    "common_abbreviation": "Pred",
+    "category": "acute use",
+    "sub_category": "Immunology",
+    "dosage_forms": ["tablet", "solution"],
+    "common_doses": ["5 mg", "10 mg", "20 mg", "40 mg", "50 mg", "60 mg"],
+    "notes": "Corticosteroid for inflammation, allergies, and autoimmune conditions"
+  },
+  {
+    "name": "Hydroxyzine",
+    "common_abbreviation": "Hydr",
+    "category": "mental health",
+    "sub_category": "Psychiatry",
+    "dosage_forms": ["tablet", "capsule", "syrup", "injection"],
+    "common_doses": ["10 mg", "25 mg", "50 mg", "100 mg"],
+    "notes": "Antihistamine for anxiety and itching"
+  },
+  {
+    "name": "Buspirone",
+    "common_abbreviation": "Busp",
+    "category": "mental health",
+    "sub_category": "Psychiatry",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["5 mg", "10 mg", "15 mg", "30 mg"],
+    "notes": "Non-benzodiazepine anxiolytic for generalized anxiety disorder"
+  },
+  {
+    "name": "Clopidogrel",
+    "common_abbreviation": "Clop",
+    "category": "chronic illness",
+    "sub_category": "Hematology",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["75 mg", "300 mg"],
+    "notes": "Antiplatelet agent for cardiovascular event prevention"
+  },
+  {
+    "name": "Glipizide",
+    "common_abbreviation": "Glip",
+    "category": "chronic illness",
+    "sub_category": "Endocrinology",
+    "dosage_forms": ["tablet", "extended-release tablet"],
+    "common_doses": ["2.5 mg", "5 mg", "10 mg"],
+    "notes": "Sulfonylurea for type 2 diabetes"
+  },
+  {
+    "name": "Citalopram",
+    "common_abbreviation": "Cit",
+    "category": "mental health",
+    "sub_category": "Psychiatry",
+    "dosage_forms": ["tablet", "solution"],
+    "common_doses": ["10 mg", "20 mg", "40 mg"],
+    "notes": "SSRI antidepressant for depression"
+  },
+  {
+    "name": "Potassium Chloride",
+    "common_abbreviation": "KCl",
+    "category": "chronic illness",
+    "sub_category": "Electrolyte",
+    "dosage_forms": ["tablet", "capsule", "extended-release tablet", "solution", "injection"],
+    "common_doses": ["10 mEq", "20 mEq", "40 mEq"],
+    "notes": "Potassium supplementation for hypokalemia"
+  },
+  {
+    "name": "Allopurinol",
+    "common_abbreviation": "Allo",
+    "category": "chronic illness",
+    "sub_category": "Rheumatology",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["100 mg", "300 mg"],
+    "notes": "Xanthine oxidase inhibitor for gout and hyperuricemia"
+  },
+  {
+    "name": "Aspirin",
+    "common_abbreviation": "ASA",
+    "category": "acute use",
+    "sub_category": "Analgesia",
+    "dosage_forms": ["tablet", "chewable tablet", "suppository"],
+    "common_doses": ["81 mg", "325 mg", "500 mg"],
+    "notes": "NSAID for pain, fever, inflammation, and cardiovascular protection"
+  },
+  {
+    "name": "Cyclobenzaprine",
+    "common_abbreviation": "Cyclo",
+    "category": "acute use",
+    "sub_category": "Musculoskeletal",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["5 mg", "7.5 mg", "10 mg"],
+    "notes": "Muscle relaxant for muscle spasms"
+  },
+  {
+    "name": "Ergocalciferol (Vitamin D)",
+    "common_abbreviation": "VitD",
+    "category": "chronic illness",
+    "sub_category": "Endocrinology",
+    "dosage_forms": ["capsule", "tablet", "solution"],
+    "common_doses": ["400 IU", "800 IU", "1000 IU", "50000 IU"],
+    "notes": "Vitamin D supplementation for deficiency and bone health"
+  },
+  {
+    "name": "Oxycodone",
+    "common_abbreviation": "Oxy",
+    "category": "acute use",
+    "sub_category": "Analgesia",
+    "dosage_forms": ["tablet", "capsule", "solution", "extended-release tablet"],
+    "common_doses": ["5 mg", "10 mg", "15 mg", "20 mg", "30 mg"],
+    "notes": "Opioid analgesic for moderate to severe pain"
+  },
+  {
+    "name": "Methylphenidate",
+    "common_abbreviation": "Meth",
+    "category": "mental health",
+    "sub_category": "Psychiatry",
+    "dosage_forms": ["tablet", "capsule", "extended-release tablet", "patch"],
+    "common_doses": ["5 mg", "10 mg", "18 mg", "20 mg", "27 mg", "36 mg", "54 mg"],
+    "notes": "Stimulant for ADHD and narcolepsy"
+  },
+  {
+    "name": "Venlafaxine",
+    "common_abbreviation": "Ven",
+    "category": "mental health",
+    "sub_category": "Psychiatry",
+    "dosage_forms": ["tablet", "extended-release capsule"],
+    "common_doses": ["37.5 mg", "75 mg", "150 mg", "225 mg"],
+    "notes": "SNRI antidepressant for depression and anxiety"
+  },
+  {
+    "name": "Warfarin",
+    "common_abbreviation": "War",
+    "category": "chronic illness",
+    "sub_category": "Hematology",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["1 mg", "2 mg", "2.5 mg", "3 mg", "4 mg", "5 mg", "6 mg", "7.5 mg", "10 mg"],
+    "notes": "Vitamin K antagonist anticoagulant"
+  },
+  {
+    "name": "Spironolactone",
+    "common_abbreviation": "Spiro",
+    "category": "chronic illness",
+    "sub_category": "Cardiovascular",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["25 mg", "50 mg", "100 mg"],
+    "notes": "Aldosterone antagonist for heart failure, hypertension, and edema"
+  },
+  {
+    "name": "Clonazepam",
+    "common_abbreviation": "Clonaz",
+    "category": "mental health",
+    "sub_category": "Neurology",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["0.5 mg", "1 mg", "2 mg"],
+    "notes": "Benzodiazepine for panic disorder and seizure disorders"
+  },
+  {
+    "name": "Propranolol",
+    "common_abbreviation": "Prop",
+    "category": "chronic illness",
+    "sub_category": "Cardiovascular",
+    "dosage_forms": ["tablet", "extended-release capsule", "injection"],
+    "common_doses": ["10 mg", "20 mg", "40 mg", "60 mg", "80 mg"],
+    "notes": "Beta-blocker for hypertension, migraine prophylaxis, and performance anxiety"
+  },
+  {
+    "name": "Diazepam",
+    "common_abbreviation": "Diaz",
+    "category": "mental health",
+    "sub_category": "Neurology",
+    "dosage_forms": ["tablet", "injection", "rectal gel"],
+    "common_doses": ["2 mg", "5 mg", "10 mg"],
+    "notes": "Benzodiazepine for anxiety, muscle spasms, and seizures"
+  },
+  {
+    "name": "Zolpidem",
+    "common_abbreviation": "Zolp",
+    "category": "mental health",
+    "sub_category": "Psychiatry",
+    "dosage_forms": ["tablet", "extended-release tablet", "sublingual tablet"],
+    "common_doses": ["5 mg", "6.25 mg", "10 mg", "12.5 mg"],
+    "notes": "Sedative-hypnotic for insomnia"
+  },
+  {
+    "name": "Mirtazapine",
+    "common_abbreviation": "Mir",
+    "category": "mental health",
+    "sub_category": "Psychiatry",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["15 mg", "30 mg", "45 mg"],
+    "notes": "Antidepressant for depression"
+  },
+  {
+    "name": "Paroxetine",
+    "common_abbreviation": "Parox",
+    "category": "mental health",
+    "sub_category": "Psychiatry",
+    "dosage_forms": ["tablet", "extended-release tablet", "suspension"],
+    "common_doses": ["10 mg", "20 mg", "30 mg", "40 mg"],
+    "notes": "SSRI antidepressant for depression, anxiety, and OCD"
+  },
+  {
+    "name": "Donepezil",
+    "common_abbreviation": "Don",
+    "category": "chronic illness",
+    "sub_category": "Neurology",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["5 mg", "10 mg", "23 mg"],
+    "notes": "Cholinesterase inhibitor for Alzheimer's disease"
+  },
+  {
+    "name": "Memantine",
+    "common_abbreviation": "Mem",
+    "category": "chronic illness",
+    "sub_category": "Neurology",
+    "dosage_forms": ["tablet", "extended-release capsule", "solution"],
+    "common_doses": ["5 mg", "10 mg", "15 mg", "20 mg"],
+    "notes": "NMDA antagonist for Alzheimer's disease"
+  },
+  {
+    "name": "Quetiapine",
+    "common_abbreviation": "Que",
+    "category": "mental health",
+    "sub_category": "Psychiatry",
+    "dosage_forms": ["tablet", "extended-release tablet"],
+    "common_doses": ["25 mg", "50 mg", "100 mg", "200 mg", "300 mg", "400 mg"],
+    "notes": "Atypical antipsychotic for schizophrenia, bipolar disorder, and depression"
+  },
+  {
+    "name": "Olanzapine",
+    "common_abbreviation": "Olan",
+    "category": "mental health",
+    "sub_category": "Psychiatry",
+    "dosage_forms": ["tablet", "injection"],
+    "common_doses": ["2.5 mg", "5 mg", "7.5 mg", "10 mg", "15 mg", "20 mg"],
+    "notes": "Atypical antipsychotic for schizophrenia and bipolar disorder"
+  },
+  {
+    "name": "Risperidone",
+    "common_abbreviation": "Risp",
+    "category": "mental health",
+    "sub_category": "Psychiatry",
+    "dosage_forms": ["tablet", "solution", "injection"],
+    "common_doses": ["0.25 mg", "0.5 mg", "1 mg", "2 mg", "3 mg", "4 mg"],
+    "notes": "Atypical antipsychotic for schizophrenia and bipolar disorder"
+  },
+  {
+    "name": "Aripiprazole",
+    "common_abbreviation": "Arip",
+    "category": "mental health",
+    "sub_category": "Psychiatry",
+    "dosage_forms": ["tablet", "solution", "injection"],
+    "common_doses": ["2 mg", "5 mg", "10 mg", "15 mg", "20 mg", "30 mg"],
+    "notes": "Atypical antipsychotic for schizophrenia, bipolar disorder, and depression"
+  },
+  {
+    "name": "Lamotrigine",
+    "common_abbreviation": "Lam",
+    "category": "mental health",
+    "sub_category": "Neurology",
+    "dosage_forms": ["tablet", "chewable tablet"],
+    "common_doses": ["25 mg", "50 mg", "100 mg", "200 mg"],
+    "notes": "Anticonvulsant and mood stabilizer for epilepsy and bipolar disorder"
+  },
+  {
+    "name": "Divalproex Sodium",
+    "common_abbreviation": "Valp",
+    "category": "mental health",
+    "sub_category": "Neurology",
+    "dosage_forms": ["tablet", "extended-release tablet", "capsule"],
+    "common_doses": ["125 mg", "250 mg", "500 mg"],
+    "notes": "Anticonvulsant and mood stabilizer for epilepsy, bipolar disorder, and migraine"
+  },
+  {
+    "name": "Carbamazepine",
+    "common_abbreviation": "Carb",
+    "category": "mental health",
+    "sub_category": "Neurology",
+    "dosage_forms": ["tablet", "capsule", "extended-release capsule", "suspension"],
+    "common_doses": ["100 mg", "200 mg", "300 mg", "400 mg"],
+    "notes": "Anticonvulsant and mood stabilizer for epilepsy and trigeminal neuralgia"
+  },
+  {
+    "name": "Levetiracetam",
+    "common_abbreviation": "Lev",
+    "category": "mental health",
+    "sub_category": "Neurology",
+    "dosage_forms": ["tablet", "solution", "injection"],
+    "common_doses": ["250 mg", "500 mg", "750 mg", "1000 mg"],
+    "notes": "Anticonvulsant for epilepsy"
+  },
+  {
+    "name": "Topiramate",
+    "common_abbreviation": "Top",
+    "category": "mental health",
+    "sub_category": "Neurology",
+    "dosage_forms": ["tablet", "capsule"],
+    "common_doses": ["25 mg", "50 mg", "100 mg", "200 mg"],
+    "notes": "Anticonvulsant for epilepsy and migraine prophylaxis"
+  },
+  {
+    "name": "Pregabalin",
+    "common_abbreviation": "Pre",
+    "category": "mental health/chronic pain",
+    "sub_category": "Neurology",
+    "dosage_forms": ["capsule", "tablet", "solution"],
+    "common_doses": ["25 mg", "50 mg", "75 mg", "100 mg", "150 mg", "200 mg", "225 mg", "300 mg"],
+    "notes": "Neuropathic pain, fibromyalgia, and epilepsy"
+  },
+  {
+    "name": "Baclofen",
+    "common_abbreviation": "Bacl",
+    "category": "chronic illness",
+    "sub_category": "Musculoskeletal",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["5 mg", "10 mg", "20 mg"],
+    "notes": "Muscle relaxant for spasticity"
+  },
+  {
+    "name": "Tizanidine",
+    "common_abbreviation": "Tiz",
+    "category": "chronic illness",
+    "sub_category": "Musculoskeletal",
+    "dosage_forms": ["tablet", "capsule"],
+    "common_doses": ["2 mg", "4 mg", "6 mg"],
+    "notes": "Muscle relaxant for muscle spasms"
+  },
+  {
+    "name": "Methocarbamol",
+    "common_abbreviation": "Metho",
+    "category": "acute use",
+    "sub_category": "Musculoskeletal",
+    "dosage_forms": ["tablet", "injection"],
+    "common_doses": ["500 mg", "750 mg"],
+    "notes": "Muscle relaxant for acute musculoskeletal pain"
+  },
+  {
+    "name": "Ondansetron",
+    "common_abbreviation": "Ond",
+    "category": "acute use",
+    "sub_category": "Gastroenterology",
+    "dosage_forms": ["tablet", "orally disintegrating tablet", "solution", "injection"],
+    "common_doses": ["4 mg", "8 mg", "16 mg", "24 mg"],
+    "notes": "Antiemetic for nausea and vomiting"
+  },
+  {
+    "name": "Promethazine",
+    "common_abbreviation": "Prome",
+    "category": "acute use",
+    "sub_category": "Gastroenterology",
+    "dosage_forms": ["tablet", "suppository", "injection"],
+    "common_doses": ["12.5 mg", "25 mg", "50 mg"],
+    "notes": "Antihistamine for nausea, vomiting, and allergies"
+  },
+  {
+    "name": "Metoclopramide",
+    "common_abbreviation": "Metocl",
+    "category": "acute use",
+    "sub_category": "Gastroenterology",
+    "dosage_forms": ["tablet", "solution", "injection"],
+    "common_doses": ["5 mg", "10 mg"],
+    "notes": "Prokinetic agent for GERD and gastroparesis"
+  },
+  {
+    "name": "Diphenoxylate-Atropine",
+    "common_abbreviation": "Diph",
+    "category": "acute use",
+    "sub_category": "Gastroenterology",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["2.5 mg/0.025 mg"],
+    "notes": "Antidiarrheal agent"
+  },
+  {
+    "name": "Loperamide",
+    "common_abbreviation": "Lop",
+    "category": "acute use",
+    "sub_category": "Gastroenterology",
+    "dosage_forms": ["capsule", "tablet", "solution"],
+    "common_doses": ["2 mg", "4 mg"],
+    "notes": "Antidiarrheal agent"
+  },
+  {
+    "name": "Polyethylene Glycol",
+    "common_abbreviation": "PEG",
+    "category": "acute use",
+    "sub_category": "Gastroenterology",
+    "dosage_forms": ["powder"],
+    "common_doses": ["17 g"],
+    "notes": "Osmotic laxative for constipation"
+  },
+  {
+    "name": "Docusate",
+    "common_abbreviation": "Doc",
+    "category": "acute use",
+    "sub_category": "Gastroenterology",
+    "dosage_forms": ["capsule", "tablet", "solution"],
+    "common_doses": ["100 mg", "250 mg"],
+    "notes": "Stool softener"
+  },
+  {
+    "name": "Senna",
+    "common_abbreviation": "Sen",
+    "category": "acute use",
+    "sub_category": "Gastroenterology",
+    "dosage_forms": ["tablet", "granules", "syrup"],
+    "common_doses": ["8.6 mg", "15 mg", "17.2 mg"],
+    "notes": "Stimulant laxative"
+  },
+  {
+    "name": "Bisacodyl",
+    "common_abbreviation": "Bis",
+    "category": "acute use",
+    "sub_category": "Gastroenterology",
+    "dosage_forms": ["tablet", "suppository"],
+    "common_doses": ["5 mg", "10 mg"],
+    "notes": "Stimulant laxative"
+  },
+  {
+    "name": "Nitroglycerin",
+    "common_abbreviation": "NTG",
+    "category": "acute use",
+    "sub_category": "Cardiovascular",
+    "dosage_forms": ["sublingual tablet", "spray", "patch", "ointment", "injection"],
+    "common_doses": ["0.3 mg", "0.4 mg", "0.6 mg"],
+    "notes": "Vasodilator for angina"
+  },
+  {
+    "name": "Isosorbide Mononitrate",
+    "common_abbreviation": "ISMN",
+    "category": "chronic illness",
+    "sub_category": "Cardiovascular",
+    "dosage_forms": ["tablet", "extended-release tablet"],
+    "common_doses": ["30 mg", "60 mg", "120 mg"],
+    "notes": "Vasodilator for angina prophylaxis"
+  },
+  {
+    "name": "Digoxin",
+    "common_abbreviation": "Dig",
+    "category": "chronic illness",
+    "sub_category": "Cardiovascular",
+    "dosage_forms": ["tablet", "capsule", "injection"],
+    "common_doses": ["0.0625 mg", "0.125 mg", "0.25 mg"],
+    "notes": "Cardiac glycoside for heart failure and atrial fibrillation"
+  },
+  {
+    "name": "Clonidine",
+    "common_abbreviation": "Clon",
+    "category": "chronic illness",
+    "sub_category": "Cardiovascular",
+    "dosage_forms": ["tablet", "patch"],
+    "common_doses": ["0.1 mg", "0.2 mg", "0.3 mg"],
+    "notes": "Alpha-2 agonist for hypertension and ADHD"
+  },
+  {
+    "name": "Doxazosin",
+    "common_abbreviation": "Dox",
+    "category": "chronic illness",
+    "sub_category": "Cardiovascular",
+    "dosage_forms": ["tablet", "extended-release tablet"],
+    "common_doses": ["1 mg", "2 mg", "4 mg", "8 mg"],
+    "notes": "Alpha-blocker for hypertension and BPH"
+  },
+  {
+    "name": "Terazosin",
+    "common_abbreviation": "Ter",
+    "category": "chronic illness",
+    "sub_category": "Urology",
+    "dosage_forms": ["capsule"],
+    "common_doses": ["1 mg", "2 mg", "5 mg", "10 mg"],
+    "notes": "Alpha-blocker for hypertension and BPH"
+  },
+  {
+    "name": "Finasteride",
+    "common_abbreviation": "Fin",
+    "category": "chronic illness",
+    "sub_category": "Urology",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["1 mg", "5 mg"],
+    "notes": "5-alpha reductase inhibitor for BPH and male pattern baldness"
+  },
+  {
+    "name": "Dutasteride",
+    "common_abbreviation": "Dut",
+    "category": "chronic illness",
+    "sub_category": "Urology",
+    "dosage_forms": ["capsule"],
+    "common_doses": ["0.5 mg"],
+    "notes": "5-alpha reductase inhibitor for BPH"
+  },
+  {
+    "name": "Sildenafil",
+    "common_abbreviation": "Sild",
+    "category": "acute use",
+    "sub_category": "Urology",
+    "dosage_forms": ["tablet", "injection", "suspension"],
+    "common_doses": ["20 mg", "25 mg", "50 mg", "100 mg"],
+    "notes": "PDE5 inhibitor for erectile dysfunction and pulmonary hypertension"
+  },
+  {
+    "name": "Tadalafil",
+    "common_abbreviation": "Tad",
+    "category": "acute use",
+    "sub_category": "Urology",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["2.5 mg", "5 mg", "10 mg", "20 mg"],
+    "notes": "PDE5 inhibitor for erectile dysfunction and BPH"
+  },
+  {
+    "name": "Vardenafil",
+    "common_abbreviation": "Var",
+    "category": "acute use",
+    "sub_category": "Urology",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["2.5 mg", "5 mg", "10 mg", "20 mg"],
+    "notes": "PDE5 inhibitor for erectile dysfunction"
+  },
+  {
+    "name": "Estradiol",
+    "common_abbreviation": "Est",
+    "category": "chronic illness",
+    "sub_category": "Endocrinology",
+    "dosage_forms": ["tablet", "patch", "gel", "cream", "ring", "injection"],
+    "common_doses": ["0.5 mg", "1 mg", "2 mg"],
+    "notes": "Estrogen replacement for menopause symptoms"
+  },
+  {
+    "name": "Conjugated Estrogens",
+    "common_abbreviation": "CE",
+    "category": "chronic illness",
+    "sub_category": "Endocrinology",
+    "dosage_forms": ["tablet", "cream", "injection"],
+    "common_doses": ["0.3 mg", "0.45 mg", "0.625 mg", "1.25 mg"],
+    "notes": "Estrogen replacement for menopause symptoms"
+  },
+  {
+    "name": "Medroxyprogesterone",
+    "common_abbreviation": "MPA",
+    "category": "chronic illness",
+    "sub_category": "Endocrinology",
+    "dosage_forms": ["tablet", "injection"],
+    "common_doses": ["2.5 mg", "5 mg", "10 mg"],
+    "notes": "Progestin for contraception and hormone therapy"
+  },
+  {
+    "name": "Norethindrone",
+    "common_abbreviation": "Nore",
+    "category": "chronic illness",
+    "sub_category": "Endocrinology",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["0.35 mg", "5 mg"],
+    "notes": "Progestin for contraception and endometriosis"
+  },
+  {
+    "name": "Drospirenone-Ethinyl Estradiol",
+    "common_abbreviation": "DRSP/EE",
+    "category": "chronic illness",
+    "sub_category": "Endocrinology",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["3 mg/0.02 mg", "3 mg/0.03 mg"],
+    "notes": "Combined oral contraceptive"
+  },
+  {
+    "name": "Etonogestrel",
+    "common_abbreviation": "Eton",
+    "category": "chronic illness",
+    "sub_category": "Endocrinology",
+    "dosage_forms": ["implant"],
+    "common_doses": ["68 mg"],
+    "notes": "Progestin implant for long-term contraception"
+  },
+  {
+    "name": "Levonorgestrel",
+    "common_abbreviation": "Levo",
+    "category": "acute use",
+    "sub_category": "Endocrinology",
+    "dosage_forms": ["tablet", "IUD"],
+    "common_doses": ["0.75 mg", "1.5 mg"],
+    "notes": "Emergency contraception and IUD for long-term contraception"
+  },
+  {
+    "name": "Prednisolone",
+    "common_abbreviation": "Predl",
+    "category": "acute use",
+    "sub_category": "Immunology",
+    "dosage_forms": ["tablet", "solution"],
+    "common_doses": ["5 mg", "10 mg", "15 mg", "20 mg", "30 mg"],
+    "notes": "Corticosteroid for inflammation and autoimmune conditions"
+  },
+  {
+    "name": "Methylprednisolone",
+    "common_abbreviation": "MP",
+    "category": "acute use",
+    "sub_category": "Immunology",
+    "dosage_forms": ["tablet", "injection"],
+    "common_doses": ["4 mg", "8 mg", "16 mg", "32 mg"],
+    "notes": "Corticosteroid for inflammation and autoimmune conditions"
+  },
+  {
+    "name": "Hydrocortisone",
+    "common_abbreviation": "HC",
+    "category": "acute use",
+    "sub_category": "Dermatology",
+    "dosage_forms": ["cream", "ointment", "tablet", "injection"],
+    "common_doses": ["0.5%", "1%", "2.5%"],
+    "notes": "Corticosteroid for skin inflammation and adrenal insufficiency"
+  },
+  {
+    "name": "Betamethasone",
+    "common_abbreviation": "Beta",
+    "category": "acute use",
+    "sub_category": "Dermatology",
+    "dosage_forms": ["cream", "ointment", "lotion", "foam"],
+    "common_doses": ["0.05%", "0.1%"],
+    "notes": "High-potency corticosteroid for skin conditions"
+  },
+  {
+    "name": "Triamcinolone",
+    "common_abbreviation": "Triam",
+    "category": "acute use",
+    "sub_category": "Dermatology",
+    "dosage_forms": ["cream", "ointment", "paste", "injection"],
+    "common_doses": ["0.025%", "0.1%", "0.5%"],
+    "notes": "Corticosteroid for skin conditions and joint injections"
+  },
+  {
+    "name": "Clobetasol",
+    "common_abbreviation": "Clob",
+    "category": "acute use",
+    "sub_category": "Dermatology",
+    "dosage_forms": ["cream", "ointment", "foam", "shampoo"],
+    "common_doses": ["0.05%"],
+    "notes": "Super-high-potency corticosteroid for severe skin conditions"
+  },
+  {
+    "name": "Mometasone",
+    "common_abbreviation": "Mom",
+    "category": "chronic illness",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["inhaler", "nasal spray", "cream", "ointment"],
+    "common_doses": ["50 mcg", "100 mcg", "200 mcg"],
+    "notes": "Corticosteroid for asthma, allergies, and skin conditions"
+  },
+  {
+    "name": "Azithromycin",
+    "common_abbreviation": "Azith",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["tablet", "capsule", "suspension"],
+    "common_doses": ["250 mg", "500 mg"],
+    "notes": "Macrolide antibiotic for respiratory and skin infections"
+  },
+  {
+    "name": "Cephalexin",
+    "common_abbreviation": "Ceph",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["capsule", "tablet", "suspension"],
+    "common_doses": ["250 mg", "500 mg"],
+    "notes": "First-generation cephalosporin antibiotic"
+  },
+  {
+    "name": "Doxycycline",
+    "common_abbreviation": "Doxy",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["capsule", "tablet"],
+    "common_doses": ["50 mg", "100 mg"],
+    "notes": "Tetracycline antibiotic for bacterial infections"
+  },
+  {
+    "name": "Ciprofloxacin",
+    "common_abbreviation": "Cipro",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["tablet", "suspension", "injection"],
+    "common_doses": ["250 mg", "500 mg", "750 mg"],
+    "notes": "Fluoroquinolone antibiotic"
+  },
+  {
+    "name": "Levofloxacin",
+    "common_abbreviation": "Levo",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["tablet", "injection"],
+    "common_doses": ["250 mg", "500 mg", "750 mg"],
+    "notes": "Fluoroquinolone antibiotic"
+  },
+  {
+    "name": "Sulfamethoxazole-Trimethoprim",
+    "common_abbreviation": "SMX-TMP",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["tablet", "suspension"],
+    "common_doses": ["400 mg/80 mg", "800 mg/160 mg"],
+    "notes": "Combination antibiotic for UTIs and other infections"
+  },
+  {
+    "name": "Nitrofurantoin",
+    "common_abbreviation": "Nitro",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["capsule", "tablet", "suspension"],
+    "common_doses": ["50 mg", "100 mg"],
+    "notes": "Antibiotic specifically for UTIs"
+  },
+  {
+    "name": "Fluconazole",
+    "common_abbreviation": "Flucon",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["tablet", "suspension", "injection"],
+    "common_doses": ["50 mg", "100 mg", "150 mg", "200 mg"],
+    "notes": "Antifungal for candidiasis"
+  },
+  {
+    "name": "Terbinafine",
+    "common_abbreviation": "Terb",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["tablet", "cream"],
+    "common_doses": ["250 mg"],
+    "notes": "Antifungal for nail and skin fungal infections"
+  },
+  {
+    "name": "Clotrimazole",
+    "common_abbreviation": "Clot",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["cream", "troche"],
+    "common_doses": ["1%", "10 mg"],
+    "notes": "Antifungal for skin and oral fungal infections"
+  },
+  {
+    "name": "Miconazole",
+    "common_abbreviation": "Mic",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["cream", "vaginal suppository", "buccal tablet"],
+    "common_doses": ["2%", "100 mg", "200 mg"],
+    "notes": "Antifungal for skin and vaginal yeast infections"
+  },
+  {
+    "name": "Nystatin",
+    "common_abbreviation": "Nys",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["cream", "ointment", "suspension"],
+    "common_doses": ["100,000 units/g", "100,000 units/mL"],
+    "notes": "Antifungal for skin and oral fungal infections"
+  },
+  {
+    "name": "Acyclovir",
+    "common_abbreviation": "Acy",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["tablet", "capsule", "suspension", "cream", "injection"],
+    "common_doses": ["200 mg", "400 mg", "800 mg"],
+    "notes": "Antiviral for herpes infections"
+  },
+  {
+    "name": "Valacyclovir",
+    "common_abbreviation": "Vala",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["500 mg", "1000 mg"],
+    "notes": "Antiviral for herpes infections and shingles"
+  },
+  {
+    "name": "Famciclovir",
+    "common_abbreviation": "Fam",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["125 mg", "250 mg", "500 mg"],
+    "notes": "Antiviral for herpes infections"
+  },
+  {
+    "name": "Oseltamivir",
+    "common_abbreviation": "Osel",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["capsule", "suspension"],
+    "common_doses": ["30 mg", "45 mg", "75 mg"],
+    "notes": "Antiviral for influenza"
+  },
+  {
+    "name": "Cetirizine",
+    "common_abbreviation": "Cet",
+    "category": "acute use",
+    "sub_category": "Allergy",
+    "dosage_forms": ["tablet", "syrup"],
+    "common_doses": ["5 mg", "10 mg"],
+    "notes": "Second-generation antihistamine for allergies"
+  },
+  {
+    "name": "Loratadine",
+    "common_abbreviation": "Lor",
+    "category": "acute use",
+    "sub_category": "Allergy",
+    "dosage_forms": ["tablet", "syrup"],
+    "common_doses": ["5 mg", "10 mg"],
+    "notes": "Second-generation antihistamine for allergies"
+  },
+  {
+    "name": "Fexofenadine",
+    "common_abbreviation": "Fexo",
+    "category": "acute use",
+    "sub_category": "Allergy",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["30 mg", "60 mg", "120 mg", "180 mg"],
+    "notes": "Second-generation antihistamine for allergies"
+  },
+  {
+    "name": "Diphenhydramine",
+    "common_abbreviation": "DPH",
+    "category": "acute use",
+    "sub_category": "Allergy",
+    "dosage_forms": ["tablet", "capsule", "syrup", "injection"],
+    "common_doses": ["12.5 mg", "25 mg", "50 mg"],
+    "notes": "First-generation antihistamine for allergies and sleep"
+  },
+  {
+    "name": "Levocetirizine",
+    "common_abbreviation": "Levoc",
+    "category": "acute use",
+    "sub_category": "Allergy",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["2.5 mg", "5 mg"],
+    "notes": "Second-generation antihistamine for allergies"
+  },
+  {
+    "name": "Azelastine",
+    "common_abbreviation": "Azel",
+    "category": "acute use",
+    "sub_category": "Allergy",
+    "dosage_forms": ["nasal spray", "eye drops"],
+    "common_doses": ["137 mcg/spray", "0.05%"],
+    "notes": "Antihistamine nasal spray for allergic rhinitis"
+  },
+  {
+    "name": "Ipratropium",
+    "common_abbreviation": "Ipra",
+    "category": "acute use",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["inhaler", "nasal spray", "nebulizer solution"],
+    "common_doses": ["17 mcg/spray", "21 mcg/spray", "0.02%", "0.03%", "0.06%"],
+    "notes": "Anticholinergic bronchodilator for COPD and rhinitis"
+  },
+  {
+    "name": "Tiotropium",
+    "common_abbreviation": "Tio",
+    "category": "chronic illness",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["inhaler"],
+    "common_doses": ["18 mcg", "2.5 mcg"],
+    "notes": "Long-acting anticholinergic for COPD"
+  },
+  {
+    "name": "Umeclidinium",
+    "common_abbreviation": "Ume",
+    "category": "chronic illness",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["inhaler"],
+    "common_doses": ["62.5 mcg"],
+    "notes": "Long-acting anticholinergic for COPD"
+  },
+  {
+    "name": "Budesonide",
+    "common_abbreviation": "Bude",
+    "category": "chronic illness",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["inhaler", "nebulizer suspension", "capsule", "tablet"],
+    "common_doses": ["90 mcg", "180 mcg", "360 mcg", "0.25 mg", "0.5 mg", "1 mg"],
+    "notes": "Corticosteroid for asthma and Crohn's disease"
+  },
+  {
+    "name": "Fluticasone-Salmeterol",
+    "common_abbreviation": "Flut-Salm",
+    "category": "chronic illness",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["inhaler"],
+    "common_doses": ["100 mcg/50 mcg", "250 mcg/50 mcg", "500 mcg/50 mcg"],
+    "notes": "Combination inhaler for asthma and COPD"
+  },
+  {
+    "name": "Budesonide-Formoterol",
+    "common_abbreviation": "Bud-Form",
+    "category": "chronic illness",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["inhaler"],
+    "common_doses": ["80 mcg/4.5 mcg", "160 mcg/4.5 mcg", "320 mcg/9 mcg"],
+    "notes": "Combination inhaler for asthma and COPD"
+  },
+  {
+    "name": "Insulin Aspart",
+    "common_abbreviation": "Asp",
+    "category": "chronic illness",
+    "sub_category": "Endocrinology",
+    "dosage_forms": ["injection"],
+    "common_doses": ["1-20 units with meals"],
+    "notes": "Rapid-acting insulin for diabetes"
+  },
+  {
+    "name": "Insulin Lispro",
+    "common_abbreviation": "Lis",
+    "category": "chronic illness",
+    "sub_category": "Endocrinology",
+    "dosage_forms": ["injection"],
+    "common_doses": ["1-20 units with meals"],
+    "notes": "Rapid-acting insulin for diabetes"
+  },
+  {
+    "name": "Sitagliptin",
+    "common_abbreviation": "Sita",
+    "category": "chronic illness",
+    "sub_category": "Endocrinology",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["25 mg", "50 mg", "100 mg"],
+    "notes": "DPP-4 inhibitor for type 2 diabetes"
+  },
+  {
+    "name": "Linagliptin",
+    "common_abbreviation": "Lina",
+    "category": "chronic illness",
+    "sub_category": "Endocrinology",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["5 mg"],
+    "notes": "DPP-4 inhibitor for type 2 diabetes"
+  },
+  {
+    "name": "Pioglitazone",
+    "common_abbreviation": "Pio",
+    "category": "chronic illness",
+    "sub_category": "Endocrinology",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["15 mg", "30 mg", "45 mg"],
+    "notes": "Thiazolidinedione for type 2 diabetes"
+  },
+  {
+    "name": "Canagliflozin",
+    "common_abbreviation": "Cana",
+    "category": "chronic illness",
+    "sub_category": "Endocrinology",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["100 mg", "300 mg"],
+    "notes": "SGLT2 inhibitor for type 2 diabetes"
+  },
+  {
+    "name": "Dapagliflozin",
+    "common_abbreviation": "Dapa",
+    "category": "chronic illness",
+    "sub_category": "Endocrinology",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["5 mg", "10 mg"],
+    "notes": "SGLT2 inhibitor for type 2 diabetes and heart failure"
+  },
+  {
+    "name": "Ertugliflozin",
+    "common_abbreviation": "Ertu",
+    "category": "chronic illness",
+    "sub_category": "Endocrinology",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["5 mg", "15 mg"],
+    "notes": "SGLT2 inhibitor for type 2 diabetes"
+  },
+  {
+    "name": "Exenatide",
+    "common_abbreviation": "Exen",
+    "category": "chronic illness",
+    "sub_category": "Endocrinology",
+    "dosage_forms": ["injection"],
+    "common_doses": ["5 mcg", "10 mcg"],
+    "notes": "GLP-1 agonist for type 2 diabetes"
+  },
+  {
+    "name": "Liraglutide",
+    "common_abbreviation": "Lira",
+    "category": "chronic illness",
+    "sub_category": "Endocrinology",
+    "dosage_forms": ["injection"],
+    "common_doses": ["0.6 mg", "1.2 mg", "1.8 mg", "3 mg"],
+    "notes": "GLP-1 agonist for type 2 diabetes and weight management"
+  },
+  {
+    "name": "Dulaglutide",
+    "common_abbreviation": "Dula",
+    "category": "chronic illness",
+    "sub_category": "Endocrinology",
+    "dosage_forms": ["injection"],
+    "common_doses": ["0.75 mg", "1.5 mg", "3 mg", "4.5 mg"],
+    "notes": "GLP-1 agonist for type 2 diabetes"
+  },
+  {
+    "name": "Amiodarone",
+    "common_abbreviation": "Amio",
+    "category": "chronic illness",
+    "sub_category": "Cardiovascular",
+    "dosage_forms": ["tablet", "injection"],
+    "common_doses": ["100 mg", "200 mg", "400 mg"],
+    "notes": "Antiarrhythmic for ventricular and atrial arrhythmias"
+  },
+  {
+    "name": "Sotalol",
+    "common_abbreviation": "Sot",
+    "category": "chronic illness",
+    "sub_category": "Cardiovascular",
+    "dosage_forms": ["tablet", "injection"],
+    "common_doses": ["80 mg", "120 mg", "160 mg", "240 mg"],
+    "notes": "Beta-blocker with antiarrhythmic properties"
+  },
+  {
+    "name": "Verapamil",
+    "common_abbreviation": "Ver",
+    "category": "chronic illness",
+    "sub_category": "Cardiovascular",
+    "dosage_forms": ["tablet", "extended-release tablet", "injection"],
+    "common_doses": ["40 mg", "80 mg", "120 mg", "180 mg", "240 mg"],
+    "notes": "Calcium channel blocker for hypertension and arrhythmias"
+  },
+  {
+    "name": "Diltiazem",
+    "common_abbreviation": "Dilt",
+    "category": "chronic illness",
+    "sub_category": "Cardiovascular",
+    "dosage_forms": ["tablet", "extended-release capsule", "injection"],
+    "common_doses": ["30 mg", "60 mg", "90 mg", "120 mg", "180 mg", "240 mg", "300 mg"],
+    "notes": "Calcium channel blocker for hypertension and angina"
+  },
+  {
+    "name": "Hydralazine",
+    "common_abbreviation": "Hyd",
+    "category": "chronic illness",
+    "sub_category": "Cardiovascular",
+    "dosage_forms": ["tablet", "injection"],
+    "common_doses": ["10 mg", "25 mg", "50 mg", "100 mg"],
+    "notes": "Vasodilator for hypertension and heart failure"
+  },
+  {
+    "name": "Isosorbide Dinitrate",
+    "common_abbreviation": "ISDN",
+    "category": "chronic illness",
+    "sub_category": "Cardiovascular",
+    "dosage_forms": ["tablet", "sublingual tablet"],
+    "common_doses": ["5 mg", "10 mg", "20 mg", "30 mg"],
+    "notes": "Vasodilator for angina"
+  },
+  {
+    "name": "Nitroprusside",
+    "common_abbreviation": "NTP",
+    "category": "acute use",
+    "sub_category": "Cardiovascular",
+    "dosage_forms": ["injection"],
+    "common_doses": ["0.3-10 mcg/kg/min"],
+    "notes": "Potent vasodilator for hypertensive emergencies"
+  },
+  {
+    "name": "Prasugrel",
+    "common_abbreviation": "Pras",
+    "category": "chronic illness",
+    "sub_category": "Hematology",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["5 mg", "10 mg"],
+    "notes": "Antiplatelet agent for acute coronary syndrome"
+  },
+  {
+    "name": "Ticagrelor",
+    "common_abbreviation": "Tica",
+    "category": "chronic illness",
+    "sub_category": "Hematology",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["60 mg", "90 mg"],
+    "notes": "Antiplatelet agent for acute coronary syndrome"
+  },
+  {
+    "name": "Edoxaban",
+    "common_abbreviation": "Edox",
+    "category": "chronic illness",
+    "sub_category": "Hematology",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["15 mg", "30 mg", "60 mg"],
+    "notes": "Direct oral anticoagulant"
+  },
+  {
+    "name": "Dabigatran",
+    "common_abbreviation": "Dabi",
+    "category": "chronic illness",
+    "sub_category": "Hematology",
+    "dosage_forms": ["capsule"],
+    "common_doses": ["75 mg", "110 mg", "150 mg"],
+    "notes": "Direct thrombin inhibitor anticoagulant"
+  },
+  {
+    "name": "Heparin",
+    "common_abbreviation": "Hep",
+    "category": "acute use",
+    "sub_category": "Hematology",
+    "dosage_forms": ["injection"],
+    "common_doses": ["5000 units", "Variable based on protocols"],
+    "notes": "Anticoagulant for prevention and treatment of thrombosis"
+  },
+  {
+    "name": "Enoxaparin",
+    "common_abbreviation": "Enox",
+    "category": "acute use",
+    "sub_category": "Hematology",
+    "dosage_forms": ["injection"],
+    "common_doses": ["30 mg", "40 mg", "60 mg", "80 mg", "100 mg"],
+    "notes": "Low molecular weight heparin for DVT prophylaxis"
+  },
+  {
+    "name": "Fondaparinux",
+    "common_abbreviation": "Fond",
+    "category": "acute use",
+    "sub_category": "Hematology",
+    "dosage_forms": ["injection"],
+    "common_doses": ["2.5 mg", "5 mg", "7.5 mg", "10 mg"],
+    "notes": "Factor Xa inhibitor anticoagulant"
+  },
+  {
+    "name": "Alteplase",
+    "common_abbreviation": "Alte",
+    "category": "acute use",
+    "sub_category": "Hematology",
+    "dosage_forms": ["injection"],
+    "common_doses": ["Variable based on indication"],
+    "notes": "Thrombolytic agent for acute stroke and MI"
+  },
+  {
+    "name": "Tenecteplase",
+    "common_abbreviation": "Tene",
+    "category": "acute use",
+    "sub_category": "Hematology",
+    "dosage_forms": ["injection"],
+    "common_doses": ["Variable based on weight"],
+    "notes": "Thrombolytic agent for acute MI"
+  },
+  {
+    "name": "Reteplase",
+    "common_abbreviation": "Rete",
+    "category": "acute use",
+    "sub_category": "Hematology",
+    "dosage_forms": ["injection"],
+    "common_doses": ["10 units + 10 units"],
+    "notes": "Thrombolytic agent for acute MI"
+  },
+  {
+    "name": "Amoxicillin-Clavulanate",
+    "common_abbreviation": "Aug",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["tablet", "suspension"],
+    "common_doses": ["250 mg/62.5 mg", "500 mg/125 mg", "875 mg/125 mg"],
+    "notes": "Broad-spectrum antibiotic with beta-lactamase inhibitor"
+  },
+  {
+    "name": "Cefoxitin",
+    "common_abbreviation": "Cfox",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["injection"],
+    "common_doses": ["1 g", "2 g"],
+    "notes": "Cephamycin antibiotic for surgical prophylaxis"
+  },
+  {
+    "name": "Ceftriaxone",
+    "common_abbreviation": "Ceft",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["injection"],
+    "common_doses": ["250 mg", "500 mg", "1 g", "2 g"],
+    "notes": "Third-generation cephalosporin antibiotic"
+  },
+  {
+    "name": "Cefepime",
+    "common_abbreviation": "Cefep",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["injection"],
+    "common_doses": ["500 mg", "1 g", "2 g"],
+    "notes": "Fourth-generation cephalosporin antibiotic"
+  },
+  {
+    "name": "Meropenem",
+    "common_abbreviation": "Mero",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["injection"],
+    "common_doses": ["500 mg", "1 g"],
+    "notes": "Carbapenem antibiotic for serious infections"
+  },
+  {
+    "name": "Imipenem-Cilastatin",
+    "common_abbreviation": "Imi",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["injection"],
+    "common_doses": ["250 mg", "500 mg"],
+    "notes": "Carbapenem antibiotic with renal protectant"
+  },
+  {
+    "name": "Vancomycin",
+    "common_abbreviation": "Vanc",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["capsule", "injection"],
+    "common_doses": ["125 mg", "250 mg", "500 mg", "750 mg", "1 g"],
+    "notes": "Glycopeptide antibiotic for serious Gram-positive infections"
+  },
+  {
+    "name": "Linezolid",
+    "common_abbreviation": "Line",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["tablet", "injection"],
+    "common_doses": ["600 mg"],
+    "notes": "Oxazolidinone antibiotic for resistant infections"
+  },
+  {
+    "name": "Daptomycin",
+    "common_abbreviation": "Dapt",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["injection"],
+    "common_doses": ["4-6 mg/kg"],
+    "notes": "Lipopeptide antibiotic for resistant Gram-positive infections"
+  },
+  {
+    "name": "Gentamicin",
+    "common_abbreviation": "Gent",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["injection"],
+    "common_doses": ["1-1.7 mg/kg"],
+    "notes": "Aminoglycoside antibiotic"
+  },
+  {
+    "name": "Tobramycin",
+    "common_abbreviation": "Tob",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["injection", "nebulizer solution"],
+    "common_doses": ["3-5 mg/kg", "300 mg"],
+    "notes": "Aminoglycoside antibiotic for Gram-negative infections"
+  },
+  {
+    "name": "Cefazolin",
+    "common_abbreviation": "Cefaz",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["injection"],
+    "common_doses": ["500 mg", "1 g", "2 g"],
+    "notes": "First-generation cephalosporin for surgical prophylaxis"
+  },
+  {
+    "name": "Cefuroxime",
+    "common_abbreviation": "Cefur",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["tablet", "injection"],
+    "common_doses": ["125 mg", "250 mg", "500 mg", "750 mg"],
+    "notes": "Second-generation cephalosporin antibiotic"
+  },
+  {
+    "name": "Clarithromycin",
+    "common_abbreviation": "Clar",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["tablet", "suspension"],
+    "common_doses": ["250 mg", "500 mg"],
+    "notes": "Macrolide antibiotic for respiratory infections"
+  },
+  {
+    "name": "Erythromycin",
+    "common_abbreviation": "Ery",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["tablet", "capsule", "suspension"],
+    "common_doses": ["250 mg", "500 mg"],
+    "notes": "Macrolide antibiotic"
+  },
+  {
+    "name": "Aztreonam",
+    "common_abbreviation": "Azt",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["injection", "inhalation"],
+    "common_doses": ["500 mg", "1 g", "2 g"],
+    "notes": "Monobactam antibiotic for Gram-negative infections"
+  },
+  {
+    "name": "Polymyxin B",
+    "common_abbreviation": "PolyB",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["injection"],
+    "common_doses": ["500,000-1,000,000 units"],
+    "notes": "Polypeptide antibiotic for resistant Gram-negative infections"
+  },
+  {
+    "name": "Colistin",
+    "common_abbreviation": "Col",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["injection"],
+    "common_doses": ["2.5-5 mg/kg"],
+    "notes": "Polymyxin antibiotic for resistant Gram-negative infections"
+  },
+  {
+    "name": "Metronidazole",
+    "common_abbreviation": "Metro",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["tablet", "capsule", "injection"],
+    "common_doses": ["250 mg", "500 mg"],
+    "notes": "Antibiotic for anaerobic infections"
+  },
+  {
+    "name": "Tinidazole",
+    "common_abbreviation": "Tini",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["500 mg", "1 g", "2 g"],
+    "notes": "Antibiotic for protozoal and anaerobic infections"
+  },
+  {
+    "name": "Chloramphenicol",
+    "common_abbreviation": "Chlor",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["capsule", "injection", "eye drops"],
+    "common_doses": ["250 mg", "500 mg"],
+    "notes": "Broad-spectrum antibiotic with bone marrow toxicity risk"
+  },
+  {
+    "name": "Rifampin",
+    "common_abbreviation": "Rif",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["capsule", "injection"],
+    "common_doses": ["300 mg", "600 mg"],
+    "notes": "Antibiotic for tuberculosis and meningococcal prophylaxis"
+  },
+  {
+    "name": "Isoniazid",
+    "common_abbreviation": "INH",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["tablet", "syrup", "injection"],
+    "common_doses": ["100 mg", "300 mg"],
+    "notes": "First-line agent for tuberculosis"
+  },
+  {
+    "name": "Pyrazinamide",
+    "common_abbreviation": "PZA",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["500 mg"],
+    "notes": "First-line agent for tuberculosis"
+  },
+  {
+    "name": "Ethambutol",
+    "common_abbreviation": "EMB",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["100 mg", "400 mg"],
+    "notes": "First-line agent for tuberculosis"
+  },
+  {
+    "name": "Moxifloxacin",
+    "common_abbreviation": "Moxi",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["tablet", "injection", "eye drops"],
+    "common_doses": ["400 mg"],
+    "notes": "Fluoroquinolone antibiotic"
+  },
+  {
+    "name": "Ofloxacin",
+    "common_abbreviation": "Oflox",
+    "category": "acute use",
+    "sub_category": "Anti-Infective",
+    "dosage_forms": ["tablet", "eye drops", "ear drops"],
+    "common_doses": ["200 mg", "300 mg", "400 mg"],
+    "notes": "Fluoroquinolone antibiotic"
+  },
+  {
+    "name": "Hydroxychloroquine",
+    "common_abbreviation": "HCQ",
+    "category": "chronic illness",
+    "sub_category": "Rheumatology",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["200 mg", "400 mg"],
+    "notes": "Antimalarial for lupus and rheumatoid arthritis"
+  },
+  {
+    "name": "Leflunomide",
+    "common_abbreviation": "Lef",
+    "category": "chronic illness",
+    "sub_category": "Rheumatology",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["10 mg", "20 mg", "100 mg"],
+    "notes": "DMARD for rheumatoid arthritis"
+  },
+  {
+    "name": "Sulfasalazine",
+    "common_abbreviation": "Sulf",
+    "category": "chronic illness",
+    "sub_category": "Rheumatology",
+    "dosage_forms": ["tablet", "extended-release tablet"],
+    "common_doses": ["500 mg"],
+    "notes": "DMARD for rheumatoid arthritis and ulcerative colitis"
+  },
+  {
+    "name": "Etanercept",
+    "common_abbreviation": "Etan",
+    "category": "chronic illness",
+    "sub_category": "Rheumatology",
+    "dosage_forms": ["injection"],
+    "common_doses": ["25 mg", "50 mg"],
+    "notes": "TNF inhibitor for rheumatoid arthritis and psoriasis"
+  },
+  {
+    "name": "Adalimumab",
+    "common_abbreviation": "Adal",
+    "category": "chronic illness",
+    "sub_category": "Rheumatology",
+    "dosage_forms": ["injection"],
+    "common_doses": ["40 mg"],
+    "notes": "TNF inhibitor for multiple autoimmune conditions"
+  },
+  {
+    "name": "Infliximab",
+    "common_abbreviation": "Inflix",
+    "category": "chronic illness",
+    "sub_category": "Rheumatology",
+    "dosage_forms": ["injection"],
+    "common_doses": ["3-5 mg/kg", "5 mg/kg"],
+    "notes": "TNF inhibitor for Crohn's disease and rheumatoid arthritis"
+  },
+  {
+    "name": "Golimumab",
+    "common_abbreviation": "Goli",
+    "category": "chronic illness",
+    "sub_category": "Rheumatology",
+    "dosage_forms": ["injection"],
+    "common_doses": ["50 mg", "100 mg"],
+    "notes": "TNF inhibitor for rheumatoid arthritis and ulcerative colitis"
+  },
+  {
+    "name": "Certolizumab",
+    "common_abbreviation": "Cert",
+    "category": "chronic illness",
+    "sub_category": "Rheumatology",
+    "dosage_forms": ["injection"],
+    "common_doses": ["200 mg", "400 mg"],
+    "notes": "TNF inhibitor for Crohn's disease and rheumatoid arthritis"
+  },
+  {
+    "name": "Tofacitinib",
+    "common_abbreviation": "Tofa",
+    "category": "chronic illness",
+    "sub_category": "Rheumatology",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["5 mg", "10 mg", "11 mg"],
+    "notes": "JAK inhibitor for rheumatoid arthritis and ulcerative colitis"
+  },
+  {
+    "name": "Baricitinib",
+    "common_abbreviation": "Bari",
+    "category": "chronic illness",
+    "sub_category": "Rheumatology",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["1 mg", "2 mg", "4 mg"],
+    "notes": "JAK inhibitor for rheumatoid arthritis"
+  },
+  {
+    "name": "Abatacept",
+    "common_abbreviation": "Abat",
+    "category": "chronic illness",
+    "sub_category": "Rheumatology",
+    "dosage_forms": ["injection"],
+    "common_doses": ["125 mg", "500 mg", "750 mg", "1000 mg"],
+    "notes": "Selective T-cell co-stimulation modulator for rheumatoid arthritis"
+  },
+  {
+    "name": "Rituximab",
+    "common_abbreviation": "Ritux",
+    "category": "chronic illness",
+    "sub_category": "Rheumatology",
+    "dosage_forms": ["injection"],
+    "common_doses": ["375 mg/m²", "500 mg", "1000 mg"],
+    "notes": "Monoclonal antibody for lymphoma and rheumatoid arthritis"
+  },
+  {
+    "name": "Tocilizumab",
+    "common_abbreviation": "Toci",
+    "category": "chronic illness",
+    "sub_category": "Rheumatology",
+    "dosage_forms": ["injection"],
+    "common_doses": ["162 mg", "4-8 mg/kg"],
+    "notes": "IL-6 inhibitor for rheumatoid arthritis"
+  },
+  {
+    "name": "Anakinra",
+    "common_abbreviation": "Ana",
+    "category": "chronic illness",
+    "sub_category": "Rheumatology",
+    "dosage_forms": ["injection"],
+    "common_doses": ["100 mg"],
+    "notes": "IL-1 inhibitor for rheumatoid arthritis"
+  },
+  {
+    "name": "Secukinumab",
+    "common_abbreviation": "Secu",
+    "category": "chronic illness",
+    "sub_category": "Dermatology",
+    "dosage_forms": ["injection"],
+    "common_doses": ["150 mg", "300 mg"],
+    "notes": "IL-17 inhibitor for psoriasis"
+  },
+  {
+    "name": "Ustekinumab",
+    "common_abbreviation": "Uste",
+    "category": "chronic illness",
+    "sub_category": "Dermatology",
+    "dosage_forms": ["injection"],
+    "common_doses": ["45 mg", "90 mg"],
+    "notes": "IL-12/23 inhibitor for psoriasis and Crohn's disease"
+  },
+  {
+    "name": "Ixekizumab",
+    "common_abbreviation": "Ixe",
+    "category": "chronic illness",
+    "sub_category": "Dermatology",
+    "dosage_forms": ["injection"],
+    "common_doses": ["80 mg"],
+    "notes": "IL-17 inhibitor for psoriasis"
+  },
+  {
+    "name": "Brodalumab",
+    "common_abbreviation": "Brod",
+    "category": "chronic illness",
+    "sub_category": "Dermatology",
+    "dosage_forms": ["injection"],
+    "common_doses": ["210 mg"],
+    "notes": "IL-17 receptor inhibitor for psoriasis"
+  },
+  {
+    "name": "Dupilumab",
+    "common_abbreviation": "Dupi",
+    "category": "chronic illness",
+    "sub_category": "Dermatology",
+    "dosage_forms": ["injection"],
+    "common_doses": ["200 mg", "300 mg"],
+    "notes": "IL-4/13 inhibitor for eczema and asthma"
+  },
+  {
+    "name": "Omalizumab",
+    "common_abbreviation": "Oma",
+    "category": "chronic illness",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["injection"],
+    "common_doses": ["75 mg", "150 mg", "300 mg"],
+    "notes": "Anti-IgE antibody for severe asthma"
+  },
+  {
+    "name": "Mepolizumab",
+    "common_abbreviation": "Mepo",
+    "category": "chronic illness",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["injection"],
+    "common_doses": ["100 mg"],
+    "notes": "IL-5 inhibitor for severe eosinophilic asthma"
+  },
+  {
+    "name": "Reslizumab",
+    "common_abbreviation": "Resli",
+    "category": "chronic illness",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["injection"],
+    "common_doses": ["3 mg/kg"],
+    "notes": "IL-5 inhibitor for severe asthma"
+  },
+  {
+    "name": "Benralizumab",
+    "common_abbreviation": "Benra",
+    "category": "chronic illness",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["injection"],
+    "common_doses": ["30 mg"],
+    "notes": "IL-5 receptor inhibitor for severe asthma"
+  },
+  {
+    "name": "Tralokinumab",
+    "common_abbreviation": "Tralo",
+    "category": "chronic illness",
+    "sub_category": "Dermatology",
+    "dosage_forms": ["injection"],
+    "common_doses": ["150 mg", "300 mg"],
+    "notes": "IL-13 inhibitor for eczema"
+  },
+  {
+    "name": "Fevipiprant",
+    "common_abbreviation": "Fevi",
+    "category": "chronic illness",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["150 mg", "450 mg"],
+    "notes": "DP2 antagonist for asthma"
+  },
+  {
+    "name": "Olopatadine",
+    "common_abbreviation": "Olop",
+    "category": "acute use",
+    "sub_category": "Allergy",
+    "dosage_forms": ["eye drops", "nasal spray"],
+    "common_doses": ["0.1%", "0.2%", "0.6%", "665 mcg/spray"],
+    "notes": "Antihistamine eye drops and nasal spray for allergies"
+  },
+  {
+    "name": "Ketotifen",
+    "common_abbreviation": "Keto",
+    "category": "acute use",
+    "sub_category": "Allergy",
+    "dosage_forms": ["eye drops"],
+    "common_doses": ["0.025%"],
+    "notes": "Antihistamine eye drops for allergic conjunctivitis"
+  },
+  {
+    "name": "Zafirlukast",
+    "common_abbreviation": "Zaf",
+    "category": "chronic illness",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["10 mg", "20 mg"],
+    "notes": "Leukotriene inhibitor for asthma"
+  },
+  {
+    "name": "Theophylline",
+    "common_abbreviation": "Theo",
+    "category": "chronic illness",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["tablet", "capsule", "extended-release tablet", "solution"],
+    "common_doses": ["100 mg", "200 mg", "300 mg", "400 mg", "450 mg"],
+    "notes": "Bronchodilator for asthma and COPD"
+  },
+  {
+    "name": "Salmeterol",
+    "common_abbreviation": "Salm",
+    "category": "chronic illness",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["inhaler"],
+    "common_doses": ["50 mcg"],
+    "notes": "Long-acting beta-agonist for asthma and COPD"
+  },
+  {
+    "name": "Formoterol",
+    "common_abbreviation": "Form",
+    "category": "chronic illness",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["inhaler", "nebulizer solution"],
+    "common_doses": ["4.5 mcg", "9 mcg", "12 mcg", "20 mcg"],
+    "notes": "Long-acting beta-agonist for asthma and COPD"
+  },
+  {
+    "name": "Vilanterol",
+    "common_abbreviation": "Vil",
+    "category": "chronic illness",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["inhaler"],
+    "common_doses": ["22 mcg", "25 mcg"],
+    "notes": "Long-acting beta-agonist for COPD"
+  },
+  {
+    "name": "Indacaterol",
+    "common_abbreviation": "Inda",
+    "category": "chronic illness",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["inhaler"],
+    "common_doses": ["75 mcg", "150 mcg"],
+    "notes": "Long-acting beta-agonist for COPD"
+  },
+  {
+    "name": "Olodaterol",
+    "common_abbreviation": "Olo",
+    "category": "chronic illness",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["inhaler"],
+    "common_doses": ["2.5 mcg"],
+    "notes": "Long-acting beta-agonist for COPD"
+  },
+  {
+    "name": "Ciclesonide",
+    "common_abbreviation": "Cicle",
+    "category": "chronic illness",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["inhaler", "nasal spray"],
+    "common_doses": ["80 mcg", "160 mcg", "50 mcg/spray"],
+    "notes": "Corticosteroid for asthma and allergic rhinitis"
+  },
+  {
+    "name": "Beclomethasone",
+    "common_abbreviation": "Beclo",
+    "category": "chronic illness",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["inhaler", "nasal spray"],
+    "common_doses": ["40 mcg", "80 mcg", "42 mcg/spray", "84 mcg/spray"],
+    "notes": "Corticosteroid for asthma and allergic rhinitis"
+  },
+  {
+    "name": "Flunisolide",
+    "common_abbreviation": "Fluni",
+    "category": "chronic illness",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["inhaler", "nasal spray"],
+    "common_doses": ["250 mcg", "29 mcg/spray"],
+    "notes": "Corticosteroid for asthma and allergic rhinitis"
+  },
+  {
+    "name": "Mometasone-Formoterol",
+    "common_abbreviation": "MF",
+    "category": "chronic illness",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["inhaler"],
+    "common_doses": ["50 mcg/5 mcg", "100 mcg/5 mcg", "200 mcg/5 mcg"],
+    "notes": "Combination inhaler for asthma"
+  },
+  {
+    "name": "Tiotropium-Olodaterol",
+    "common_abbreviation": "Tio-Olo",
+    "category": "chronic illness",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["inhaler"],
+    "common_doses": ["2.5 mcg/2.5 mcg"],
+    "notes": "Combination inhaler for COPD"
+  },
+  {
+    "name": "Umeclidinium-Vilanterol",
+    "common_abbreviation": "UV",
+    "category": "chronic illness",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["inhaler"],
+    "common_doses": ["62.5 mcg/25 mcg"],
+    "notes": "Combination inhaler for COPD"
+  },
+  {
+    "name": "Albuterol-Ipratropium",
+    "common_abbreviation": "Alb-Ipra",
+    "category": "acute use",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["inhaler", "nebulizer solution"],
+    "common_doses": ["90 mcg/18 mcg", "2.5 mg/0.5 mg"],
+    "notes": "Combination bronchodilator for COPD"
+  },
+  {
+    "name": "Levalbuterol",
+    "common_abbreviation": "Levalb",
+    "category": "acute use",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["inhaler", "nebulizer solution"],
+    "common_doses": ["45 mcg", "90 mcg", "0.31 mg", "0.63 mg", "1.25 mg"],
+    "notes": "Short-acting beta-agonist for asthma"
+  },
+  {
+    "name": "Terbutaline",
+    "common_abbreviation": "Terb",
+    "category": "acute use",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["tablet", "injection", "inhaler"],
+    "common_doses": ["2.5 mg", "5 mg"],
+    "notes": "Short-acting beta-agonist for asthma and tocolysis"
+  },
+  {
+    "name": "Roflumilast",
+    "common_abbreviation": "Rofl",
+    "category": "chronic illness",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["tablet"],
+    "common_doses": ["250 mcg", "500 mcg"],
+    "notes": "PDE4 inhibitor for COPD"
+  },
+  {
+    "name": "Zileuton",
+    "common_abbreviation": "Zil",
+    "category": "chronic illness",
+    "sub_category": "Respiratory",
+    "dosage_forms": ["tablet", "extended-release tablet"],
+    "common_doses": ["600 mg"],
+    "notes": "5-lipoxygenase inhibitor for asthma"
+  }
+]
